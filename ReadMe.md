@@ -43,7 +43,8 @@ To Setup Your Code and Live Site (GitHub and GitHub Pages) first **sign in or cr
 2. **Download and install [Visual Studio Code](https://code.visualstudio.com/download) (VS Code).**
    
 
-### Clone Your Fork to Your Computer (in other words, make a local connected copy of your github code)
+### Clone Your Fork to Your Computer
+*In other words, make a local **connected** copy of your github code*
 
 1. Open **GitHub Desktop**.
 2. Click **File → Clone Repository**.
